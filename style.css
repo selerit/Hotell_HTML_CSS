@@ -1,0 +1,20 @@
+/* reset browser css */
+/*
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*/
+/* main */    
+html, body {
+    font-family: 'Segoe UI', 'Tahoma', 'Verdana', sans-serif;
+    line-height: 1.7em;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+h1 {
+    padding-bottom: 20px;
+}
